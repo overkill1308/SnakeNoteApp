@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Snake Note App</string>
+    <string name="my_notes">Snake Notes</string>
+    <string name="search_notes">Search notes</string>
+    <string name="note_title">Note Title</string>
+    <string name="note_subtitle">Note Subtitle</string>
+    <string name="type_note_here">Type note here...</string>
+    <string name="miscellaneous">Miscellaneous</string>
+    <string name="pick_color">Pick Color</string>
+    <string name="add_image">Add Image</string>
+    <string name="add_url">Add URL</string>
+    <string name="enter_url">Enter Url</string>
+    <string name="add">ADD</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="are_you_sure">Are you sure want to delete this note?</string>
+    <string name="not_valid_found">Not Valid Found!</string>
+</resources>
